@@ -296,13 +296,13 @@ int main() {
     printf("\nCheckerboard:\n");
     Checkerboard(3, 4);
 
-    printf("\nButterfly Pattern:\n");
+    printf("\nButterfly :\n");
     Butterfly(4);
 
-    printf("\nZig-Zag Pattern:\n");
+    printf("\nZig-Zag :\n");
     ZigZag(4);
 
-    printf("\nSandglass Pattern:\n");
+    printf("\nSandglass :\n");
     Sandglass(5);
 
 }
