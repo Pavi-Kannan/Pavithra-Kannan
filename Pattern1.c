@@ -305,5 +305,4 @@ int main() {
     printf("\nSandglass Pattern:\n");
     Sandglass(5);
 
-    return 0;
 }
